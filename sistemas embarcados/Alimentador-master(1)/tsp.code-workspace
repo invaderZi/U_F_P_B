@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Alimentador-master",
+			"path": "Alimentador-master"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\ziaod\\.platformio\\penv\\Scripts;C:\\Users\\ziaod\\.platformio\\penv;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\Windows Live\\Shared;C:\\Users\\ziaod\\AppData\\Local\\Microsoft\\WindowsApps;Z:\\altera\\modelsim_ase\\win32aloem;C:\\Users\\ziaod\\AppData\\Roaming\\npm;C:\\Users\\ziaod\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\ziaod\\AppData\\Local\\Android\\Sdk\\platform-tools;C:\\Users\\ziaod\\AppData\\Local\\Programs\\Python\\Python37;C:\\Users\\ziaod\\AppData\\Local\\Programs\\Python\\Python37\\Scripts;;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\Windows Live\\Shared;C:\\Users\\ziaod\\AppData\\Local\\Microsoft\\WindowsApps;Z:\\altera\\modelsim_ase\\win32aloem;C:\\Users\\ziaod\\AppData\\Roaming\\npm;C:\\Users\\ziaod\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\ziaod\\AppData\\Local\\Android\\Sdk\\platform-tools;C:\\Users\\ziaod\\AppData\\Local\\Programs\\Python\\Python37;C:\\Users\\ziaod\\AppData\\Local\\Programs\\Python\\Python37\\Scripts;",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
